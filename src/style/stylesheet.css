@@ -67,6 +67,7 @@ input {
   border: none;
   margin-bottom: 10px;
   background-color: #e0e0e0;
+  text-align: right;
 }
 
 .row {
